@@ -1,0 +1,9 @@
+#menu {
+    height: 80px;
+}
+
+#menu ul {
+    text-decoration: none;
+    list-style: none;
+    line-height: 80px;
+}
